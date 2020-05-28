@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.body{
+	background:url(../images/background.png);
+	font-size:62.5%;
+}
+	
+.MagicMirror {
+	
+}
+	
+.logo {
+	text-align:center;
+	margin-top:5.5em;
+}
+	
+.text {
+	color:#FFF;
+	font-size:1.2em;
+	line-height:1.75em;
+	margin-top:7em;
+	margin-left:4em;
+	margin-right:4em;
+}
+	
+.icon {
+	text-align:center;
+	color:#FFF;
+	font-size:1.2em;
+	margin-top:8em;
+	margin-left:4em;
+	float:left;
+}
+.icon2 {
+	text-align:center;
+	color:#FFF;
+	font-size:1.2em;
+	margin-top:8em;
+	margin-right:4em;
+	float:right;
+}
+	
+.img {
+	min-width:100%;
+	height:auto;
+}
+
